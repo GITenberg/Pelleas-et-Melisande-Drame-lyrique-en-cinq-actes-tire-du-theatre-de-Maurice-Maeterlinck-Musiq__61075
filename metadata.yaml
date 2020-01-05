@@ -1,5 +1,5 @@
 _repo: Pelleas-et-Melisande-Drame-lyrique-en-cinq-actes-tire-du-theatre-de-Maurice-Maeterlinck-Musiq__61075
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Debussy, Claude
@@ -11,6 +11,9 @@ contributor:
     wikipedia:
     - http://fr.wikipedia.org/wiki/Claude_Debussy
     - http://en.wikipedia.org/wiki/Claude_Debussy
+covers:
+- cover_type: archival
+  image_path: 61075-h/images/cover.jpg
 creator:
   author:
     agent_name: Maeterlinck, Maurice
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/795
     wikipedia: http://en.wikipedia.org/wiki/Maurice_Maeterlinck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61075#Pelleas-et-Melisande-Drame-lyrique-en-cinq-actes-tire-du-theatre-de-Maurice-Maeterlinck-Musiq_
 gutenberg_bookshelf:
 - FR Théâtre
 - FR Nouveautés
