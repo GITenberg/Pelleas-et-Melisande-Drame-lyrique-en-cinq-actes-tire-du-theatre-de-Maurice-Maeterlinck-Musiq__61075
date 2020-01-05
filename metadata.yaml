@@ -1,0 +1,41 @@
+_repo: Pelleas-et-Melisande-Drame-lyrique-en-cinq-actes-tire-du-theatre-de-Maurice-Maeterlinck-Musiq__61075
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Debussy, Claude
+    alias: Debussy, C. (Claude)
+    birthdate: 1862
+    deathdate: 1918
+    gutenberg_agent_id: '26550'
+    url: http://www.gutenberg.org/2009/agents/26550
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Claude_Debussy
+    - http://en.wikipedia.org/wiki/Claude_Debussy
+creator:
+  author:
+    agent_name: Maeterlinck, Maurice
+    birthdate: 1862
+    deathdate: 1949
+    gutenberg_agent_id: '795'
+    url: http://www.gutenberg.org/2009/agents/795
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Maeterlinck
+description: ''
+gutenberg_bookshelf:
+- FR Théâtre
+- FR Nouveautés
+gutenberg_issued: '2020-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61075'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Pelléas et Mélisande
+
+  Drame lyrique en cinq actes tiré du théâtre de Maurice
+
+  Maeterlinck Musique de Claude Debussy'
+url: http://www.gutenberg.org/ebooks/61075
